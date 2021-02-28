@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+font {
+    color: rgb(14, 22, 51);
+}
+
+input[type=text] {
+    border: none;
+    border-bottom: 1px solid red;
+}
+
+body {
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+}
